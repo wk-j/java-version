@@ -12,3 +12,7 @@ java -version
 export JAVA_HOME=(/usr/libexec/java_home -v 13.0.1)
 java -version
 ```
+
+## Resource
+
+- [Switching Java Versions on macOS](https://www.kevinhooke.com/2017/10/05/switching-java-versions-on-mac-os)
