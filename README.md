@@ -1,7 +1,7 @@
 ## Version
 
 ```bash
-brew tap AdoptOpenJDK/homebrew-openjdkbrew cask install adoptopenjdk8
+brew tap AdoptOpenJDK/homebrew-openjdkbrew
 brew cask install adoptopenjdk8
 
 /usr/libexec/java_home -V
